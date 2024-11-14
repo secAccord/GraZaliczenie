@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraZaliczenie", "GraZaliczenie\GraZaliczenie.csproj", "{D28D74DF-8D5C-40BD-86B5-F1511C89635E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28D74DF-8D5C-40BD-86B5-F1511C89635E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28D74DF-8D5C-40BD-86B5-F1511C89635E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28D74DF-8D5C-40BD-86B5-F1511C89635E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28D74DF-8D5C-40BD-86B5-F1511C89635E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
